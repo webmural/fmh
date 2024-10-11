@@ -14,8 +14,7 @@ https://s9a.page/violet
 .palevioletred { --petal: palevioletred; --loyal: navy }
 .mediumvioletred { --petal: mediumvioletred; --loyal: floralwhite }
 
-
-h1, p, footer a {
+.viola {
   animation: 3s ease-in-out pulse infinite;
 }
 
