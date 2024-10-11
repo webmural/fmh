@@ -3,5 +3,5 @@
     rect { fill: darkviolet }
   </style>
   <title>swatch</title>
-  <rect fill="violet" width="100%" height="100%" />
+  <rect fill="#bae" width="100%" height="100%" />
 </svg>

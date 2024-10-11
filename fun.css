@@ -13,3 +13,18 @@ https://s9a.page/violet
 .darkviolet { --petal: darkviolet; --loyal: floralwhite }
 .palevioletred { --petal: palevioletred; --loyal: navy }
 .mediumvioletred { --petal: mediumvioletred; --loyal: floralwhite }
+
+
+h1, p, footer a {
+  animation: 3s ease-in-out pulse infinite;
+}
+
+@keyframes pulse {
+  from {
+    box-shadow: 0 0 1ex 1ex deepskyblue;
+  }
+
+  to {
+    box-shadow: 0 0 1ex 1ex deeppink;
+  }
+}
